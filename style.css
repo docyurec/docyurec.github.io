@@ -1,0 +1,35 @@
+@font-face {
+  font-family: svoboda;
+  src: url(svoboda.ttf);
+}
+ h1 {  
+ font-family: svoboda; 
+ text-align: center;
+ color: darkblue;
+ }
+.rightimg {float: right;
+margin: 0 7px 7px 7px;}
+.leftimg {
+float:left; 
+margin: 7px 7px 7px 0; 
+}
+div {
+font-size: 25px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 4px 4px 5px gold;
+text-align: center;
+white-space: pre;
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url(image/logo3.png); 
+  background-size: auto;
+  background-position: center;
+}
+
+
+footer {
+  color: darkblue;
+  font-size: medium;
+  background-image: url(./image/prapor.jpg); width: 100%;
+}
